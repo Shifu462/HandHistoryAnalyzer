@@ -1,0 +1,181 @@
+﻿PokerStars Hand #91745277977:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/01/03 20:15:07 EET [2013/01/03 13:15:07 ET]
+Table 'Fortuna III' 6-max Seat #4 is the button
+Seat 1: angrypaca ($25.22 in chips)
+Seat 2: gusutafu ($28.97 in chips)
+Seat 3: VASIL287 ($11.77 in chips)
+Seat 4: MarcoGiovani ($86.66 in chips)
+Seat 5: gabypoker221 ($37.44 in chips)
+gabypoker221: posts small blind $0.10
+angrypaca: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to angrypaca [2h 2s]
+gusutafu: raises $0.25 to $0.50
+VASIL287: folds
+MarcoGiovani: calls $0.50
+gabypoker221: raises $1.75 to $2.25
+angrypaca: folds
+gusutafu: calls $1.75
+MarcoGiovani: folds
+*** FLOP *** [4d Qh Jd]
+gabypoker221: checks
+gusutafu: bets $4
+gabypoker221: folds
+Uncalled bet ($4) returned to gusutafu
+gusutafu collected $5.01 from pot
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.24
+Board [4d Qh Jd]
+Seat 1: angrypaca (big blind) folded before Flop
+Seat 2: gusutafu collected ($5.01)
+Seat 3: VASIL287 folded before Flop (didn't bet)
+Seat 4: MarcoGiovani (button) folded before Flop
+Seat 5: gabypoker221 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #91745326330:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/01/03 20:15:55 EET [2013/01/03 13:15:55 ET]
+Table 'Fortuna III' 6-max Seat #5 is the button
+Seat 1: angrypaca ($25 in chips)
+Seat 2: gusutafu ($31.73 in chips)
+Seat 3: VASIL287 ($11.77 in chips)
+Seat 4: MarcoGiovani ($86.16 in chips)
+Seat 5: gabypoker221 ($35.19 in chips)
+angrypaca: posts small blind $0.10
+gusutafu: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to angrypaca [9s Ah]
+VASIL287: calls $0.25
+MarcoGiovani: folds
+gabypoker221: folds
+angrypaca: calls $0.15
+gusutafu: checks
+*** FLOP *** [5h Jd 5d]
+VASIL287 said, ""
+angrypaca: checks
+gusutafu: checks
+VASIL287: checks
+*** TURN *** [5h Jd 5d] [3c]
+angrypaca: checks
+gusutafu: checks
+VASIL287: checks
+*** RIVER *** [5h Jd 5d 3c] [2c]
+angrypaca: checks
+gusutafu: checks
+VASIL287: checks
+*** SHOW DOWN ***
+angrypaca: shows [9s Ah] (a pair of Fives)
+gusutafu: mucks hand
+VASIL287: mucks hand
+angrypaca collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03
+Board [5h Jd 5d 3c 2c]
+Seat 1: angrypaca (small blind) showed [9s Ah] and won ($0.72) with a pair of Fives
+Seat 2: gusutafu (big blind) mucked [Ad 6c]
+Seat 3: VASIL287 mucked [6d Qh]
+Seat 4: MarcoGiovani folded before Flop (didn't bet)
+Seat 5: gabypoker221 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #91745423481:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/01/03 20:17:32 EET [2013/01/03 13:17:32 ET]
+Table 'Fortuna III' 6-max Seat #1 is the button
+Seat 1: angrypaca ($25.47 in chips)
+Seat 2: gusutafu ($31.48 in chips)
+Seat 3: VASIL287 ($11.52 in chips)
+Seat 4: MarcoGiovani ($86.16 in chips)
+Seat 5: gabypoker221 ($35.19 in chips)
+gusutafu: posts small blind $0.10
+VASIL287: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to angrypaca [2h 7d]
+MarcoGiovani: folds
+gabypoker221: folds
+angrypaca: folds
+gusutafu: folds
+Uncalled bet ($0.15) returned to VASIL287
+VASIL287 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0
+Seat 1: angrypaca (button) folded before Flop (didn't bet)
+Seat 2: gusutafu (small blind) folded before Flop
+Seat 3: VASIL287 (big blind) collected ($0.20)
+Seat 4: MarcoGiovani folded before Flop (didn't bet)
+Seat 5: gabypoker221 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #91745442980:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/01/03 20:17:51 EET [2013/01/03 13:17:51 ET]
+Table 'Fortuna III' 6-max Seat #2 is the button
+Seat 1: angrypaca ($25.47 in chips)
+Seat 2: gusutafu ($31.38 in chips)
+Seat 3: VASIL287 ($11.62 in chips)
+Seat 4: MarcoGiovani ($86.16 in chips)
+Seat 5: gabypoker221 ($35.19 in chips)
+VASIL287: posts small blind $0.10
+MarcoGiovani: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to angrypaca [6s Ks]
+gabypoker221: folds
+angrypaca: folds
+gusutafu: folds
+VASIL287: calls $0.15
+MarcoGiovani: checks
+*** FLOP *** [4s 9s 8h]
+VASIL287: checks
+MarcoGiovani: bets $0.25
+VASIL287: calls $0.25
+*** TURN *** [4s 9s 8h] [Th]
+VASIL287: checks
+MarcoGiovani: bets $0.75
+VASIL287: calls $0.75
+*** RIVER *** [4s 9s 8h Th] [6d]
+VASIL287: checks
+MarcoGiovani: checks
+*** SHOW DOWN ***
+VASIL287: shows [2s Qd] (high card Queen)
+MarcoGiovani: shows [5s Td] (a pair of Tens)
+MarcoGiovani collected $2.39 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.11
+Board [4s 9s 8h Th 6d]
+Seat 1: angrypaca folded before Flop (didn't bet)
+Seat 2: gusutafu (button) folded before Flop (didn't bet)
+Seat 3: VASIL287 (small blind) showed [2s Qd] and lost with high card Queen
+Seat 4: MarcoGiovani (big blind) showed [5s Td] and won ($2.39) with a pair of Tens
+Seat 5: gabypoker221 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #91745502364:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/01/03 20:18:50 EET [2013/01/03 13:18:50 ET]
+Table 'Fortuna III' 6-max Seat #3 is the button
+Seat 1: angrypaca ($25.47 in chips)
+Seat 2: gusutafu ($31.38 in chips)
+Seat 3: VASIL287 ($10.37 in chips)
+Seat 4: MarcoGiovani ($87.30 in chips)
+Seat 5: gabypoker221 ($35.19 in chips)
+MarcoGiovani: posts small blind $0.10
+gabypoker221: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to angrypaca [3d As]
+angrypaca: folds
+gusutafu: raises $0.50 to $0.75
+VASIL287: calls $0.75
+MarcoGiovani: folds
+gabypoker221: folds
+*** FLOP *** [2d 9s Tc]
+gusutafu: bets $1
+VASIL287: folds
+Uncalled bet ($1) returned to gusutafu
+gusutafu collected $1.77 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08
+Board [2d 9s Tc]
+Seat 1: angrypaca folded before Flop (didn't bet)
+Seat 2: gusutafu collected ($1.77)
+Seat 3: VASIL287 (button) folded on the Flop
+Seat 4: MarcoGiovani (small blind) folded before Flop
+Seat 5: gabypoker221 (big blind) folded before Flop
+
+
+
